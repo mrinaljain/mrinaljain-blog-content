@@ -11,15 +11,16 @@ tags:
 featuredImage: https://res.cloudinary.com/diofdbvzm/image/upload/v1775290516/samples/cup-on-a-table.jpg
 status: published
 ---
- 
 # Welcome!
- 
+
 This is my first blog post created with Decap CMS.
- 
+
 ## Features
- 
-- Easy content management
-- Git-based workflow
-- Markdown support
- 
+
+* Easy content management
+* Git-based workflow
+* Markdown support
+
 Let's build something amazing!
+
+![](https://res.cloudinary.com/diofdbvzm/image/upload/v1775290516/samples/cup-on-a-table.jpg)
