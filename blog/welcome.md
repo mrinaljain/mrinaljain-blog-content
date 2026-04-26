@@ -8,6 +8,7 @@ category: engineering
 tags:
   - welcome
   - first-post
+featuredImage: https://res.cloudinary.com/diofdbvzm/image/upload/v1775290516/samples/cup-on-a-table.jpg
 status: published
 ---
  
